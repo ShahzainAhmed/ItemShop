@@ -1,2 +1,2 @@
-# Item Shop 
+# Item Shop in Python:
 
