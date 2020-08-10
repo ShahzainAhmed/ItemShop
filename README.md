@@ -1,2 +1,2 @@
 # Item Shop in Python:
-This is a Python program 
+## This is a Python program 
